@@ -1,0 +1,10 @@
+{
+  "name": "PDFRenderer",
+  "version": "0.0.0",
+  "description": "Node.js Addons Example #9",
+  "private": true,
+  "gypfile": true,
+  "dependencies": {
+    "nan": "*"
+  }
+}
